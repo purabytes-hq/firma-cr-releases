@@ -11,7 +11,7 @@
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/firma-cr-releases/releases/download/v1.3.0/FirmaCR-1.3.0.zip"
+            <enclosure url="https://github.com/purabytes-hq/firma-cr-releases/releases/download/v1.3.0/FirmaCR-1.3.0.zip"
                        length="4381595"
                        type="application/octet-stream"
                        sparkle:edSignature="et95VbGMt14dV2Ue5shUzXyyQm+9Xa7Is6BJQUactHr+wzBvHo+zuZaEWwpDS69hDlfd3/+1VSV16h0so5F0BA=="/>
@@ -23,7 +23,7 @@
             <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/firma-cr-releases/releases/download/v1.2.1/FirmaCR-1.2.1.zip"
+            <enclosure url="https://github.com/purabytes-hq/firma-cr-releases/releases/download/v1.2.1/FirmaCR-1.2.1.zip"
                        length="4377218"
                        type="application/octet-stream"
                        sparkle:edSignature="Q9oqEHvnpggwcm9B2mq7XzTMSWnlhN8XKx+oEWeL+27mThNBRPv11WyDoXViIb1XCQtAY1pZ3ZdwEYTgCZUCBA=="/>
@@ -35,7 +35,7 @@
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/firma-cr-releases/releases/download/v1.2.0/FirmaCR-1.2.0.zip"
+            <enclosure url="https://github.com/purabytes-hq/firma-cr-releases/releases/download/v1.2.0/FirmaCR-1.2.0.zip"
                        length="4275543"
                        type="application/octet-stream"
                        sparkle:edSignature="S33UTYoJ2ROR/HQYKKdpz5sdG5FAVSm6zjDX2ueOIhHi0zGKxG3qb7NHBclqUniLsymKzzsZ/aCYNG3yZJwtBg=="/>
@@ -47,7 +47,7 @@
             <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/firma-cr-releases/releases/download/v1.1.2/FirmaCR-1.1.2.zip"
+            <enclosure url="https://github.com/purabytes-hq/firma-cr-releases/releases/download/v1.1.2/FirmaCR-1.1.2.zip"
                        length="4340765"
                        type="application/octet-stream"
                        sparkle:edSignature="irC+htdD20jlKox94E8rV/KF/bonB1NmiuyrsDyhsScUWSF+ydd0cUWuzMS4FkeT5EeWNfp7v6Tm2GUGgvRDBA=="/>
@@ -59,7 +59,7 @@
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/firma-cr-releases/releases/download/v1.1.1/FirmaCR-1.1.1.zip"
+            <enclosure url="https://github.com/purabytes-hq/firma-cr-releases/releases/download/v1.1.1/FirmaCR-1.1.1.zip"
                        length="4334212"
                        type="application/octet-stream"
                        sparkle:edSignature="29TEPg/s6l9MDuWPtV5HlppGA+TqSeNsxeCMfNOJ3EeeH1HCpVMQb31EjVnfb8i3NamqocgzoEqBi7e/Ky9/Cg=="/>
@@ -71,7 +71,7 @@
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/firma-cr-releases/releases/download/v1.1.0/FirmaCR-1.1.0.zip"
+            <enclosure url="https://github.com/purabytes-hq/firma-cr-releases/releases/download/v1.1.0/FirmaCR-1.1.0.zip"
                        length="4055314"
                        type="application/octet-stream"
                        sparkle:edSignature="OGmOhkfiXkFKYRXhvkPu7t8bwtE89UUGxClFOaHIwNEvDFefXOPyMG/RnTwCiE3IipVbstCy1P+p856LRJcpBg=="/>
@@ -83,7 +83,7 @@
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/firma-cr-releases/releases/download/v1.0.2/FirmaCR-1.0.2.zip"
+            <enclosure url="https://github.com/purabytes-hq/firma-cr-releases/releases/download/v1.0.2/FirmaCR-1.0.2.zip"
                        length="4408072"
                        type="application/octet-stream"
                        sparkle:edSignature="dvmvnhHPxkXdpUkHmAKw30AYLTadtTysz8bEKyTDLP7Nhdz+vFK6syaH8/25Dbp93GiCFiqVLlj/0/2FGyfjAQ=="/>
@@ -95,7 +95,7 @@
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aloaiza-dev/firma-cr-releases/releases/download/v1.0.1/FirmaCR-1.0.1.zip"
+            <enclosure url="https://github.com/purabytes-hq/firma-cr-releases/releases/download/v1.0.1/FirmaCR-1.0.1.zip"
                        length="4404401"
                        type="application/octet-stream"
                        sparkle:edSignature="fD4uA7GfJrIb6+AMJ3w7VF3URcfOsN24bvdj4q61+zX4+/GhRKwncZkS1T6yTheLqpX3tVzNq7rI2ZpRZBYlDQ=="/>
@@ -106,7 +106,7 @@
             <sparkle:version>31</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aloaiza-dev/firma-cr-releases/releases/download/v1.0.0/FirmaCR-1.0.0.zip"
+            <enclosure url="https://github.com/purabytes-hq/firma-cr-releases/releases/download/v1.0.0/FirmaCR-1.0.0.zip"
                        length="4402876"
                        type="application/octet-stream"
                        sparkle:edSignature="lU41pTMDNAZw0KpnznbsiNnNu5emoEn6iK52vTrj6uRS6GjwFKiu+GZau0zppGCb8VF/I/lMHGJJsAXHZ1MyAg=="/>
